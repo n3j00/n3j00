@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **SocialMediaAPP - Made with React and ASP.NET CORE**
 
-- 📚 I’m currently learning **React, Next.js**
+- About me **I recently graduated from high school (IT technical school) and now plan to start my career in the IT world. I have always been interested in web development and all kinds of programming topics. I started my adventure with the basics of programming in HTML or CSS 4 years ago doing small projects with friends. Since then I've had quite a few breaks, but I've been back on the topic for a while now and working full time. Currently I would like to find my first job as a Junior Full-Stack Developer, where I could get the experience I really need. Currently, I'm spending 90% of my free time learning and growing in the field of web application development. I am a conscientious person and fully committed to my duties which will allow me to quickly find my way in a new job also in technologies I have not dealt with before. I am looking for a company in which I will get a chance to prove myself and prove my skills and commitment to the tasks entrusted to me.**
 
-- 📚 I’m currently learning **ASP.NET Core**
+- 📚 I’m currently learning **ASP.NET Core, React**
 
 - 🤝 I’m looking for an intership/job for: **Junior Full-Stack/Junior Front-End Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikodem-stach-148399280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikodem-stach-148399280/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikodem-stach-148399280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikodem-stach-148399280" height="30" width="40" /></a>
 <a href="https://instagram.com/n1kostach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n1kostach" height="30" width="40" /></a>
 </p>
 
