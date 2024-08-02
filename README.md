@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SocialMediaAPP - Made with React and ASP.NET CORE**
 
-- About me **I recently graduated from high school (IT technical school) and now plan to start my career in the IT world. I have always been interested in web development and all kinds of programming topics. I started my adventure with the basics of programming in HTML or CSS 4 years ago doing small projects with friends. Since then I've had quite a few breaks, but I've been back on the topic for a while now and working full time. Currently I would like to find my first job as a Junior Full-Stack Developer, where I could get the experience I really need. Currently, I'm spending 90% of my free time learning and growing in the field of web application development. I am a conscientious person and fully committed to my duties which will allow me to quickly find my way in a new job also in technologies I have not dealt with before. I am looking for a company in which I will get a chance to prove myself and prove my skills and commitment to the tasks entrusted to me.**
+
 
 - 📚 I’m currently learning **ASP.NET Core, React**
 
