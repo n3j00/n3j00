@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">21yo,<br>Wrocław/Krynica-Zdrój 🇵🇱<br><br>IT Student at :<br>DSW University of Lower Silesia. Wrocław, Poland</p>
+<p align="left">22yo,<br>Wrocław/Krynica-Zdrój 🇵🇱<br><br>IT Student at :<br>DSW University of Lower Silesia. Wrocław, Poland</p>
 
 ###
 
