@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 15/16yo (with many breaks)<br>📚 I'm currently learning NextJS<br>🎯 Goals: First serious intership/job as Junior Full-Stack or Junior Front-End Dev<br><br>Through my hobby of programming, I have learned a wide range of technologies, which now allows me to work and learn comfortably across various tech platforms.</p>
+<p align="left">✨ Creating bugs since 15/16yo (with many breaks)<br>📚 I'm currently learning NextJS<br><br>Through my hobby of programming, I have learned a wide range of technologies, which now allows me to work and learn comfortably across various tech platforms.</p>
 
 ###
 
