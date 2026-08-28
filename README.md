@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 15/16yo (with many breaks)<br>📚 I'm currently focusing on NextJS/NestJS<br><br>Through my hobby of programming, I have learned a wide range of technologies, which now allows me to work and learn comfortably across various tech platforms.</p>
+<p align="left">✨ Creating bugs since 15/16yo<br>📚 I'm currently focusing on NextJS/NestJS<br><br>Through my hobby of programming, I have learned a wide range of technologies, which now allows me to work and learn comfortably across various tech platforms.</p>
 
 ###
 
